@@ -1,0 +1,11 @@
+question,expected_source,expected_answer
+员工入职后多久可以申请年假？,employee_handbook.md,员工通过试用期后可按规定申请年假。
+报销申请需要提交哪些材料？,expense_policy.md,需要提交发票、费用明细和审批记录。
+客户数据可以导出到个人设备吗？,data_security_policy.md,未经审批不得导出客户数据到个人设备。
+产品故障的升级响应时限是多少？,service_sla.md,高优先级故障应在约定时限内升级处理。
+项目变更由谁审批？,project_management.md,项目变更需经项目经理和业务负责人审批。
+会议室预订最长可以提前多少天？,office_operations.md,会议室可按公司规定提前预订。
+新供应商准入需要完成哪些步骤？,procurement_policy.md,需完成资质审查、风险评估和合同审批。
+研发环境代码提交有哪些要求？,engineering_standard.md,代码需通过评审和自动化检查后合并。
+员工培训记录在哪里查询？,training_guide.md,员工可在内部学习平台查询培训记录。
+文档对外发送前需要做什么？,information_classification.md,对外发送前需完成密级确认和授权审批。
